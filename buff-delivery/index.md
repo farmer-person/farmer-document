@@ -1,4 +1,4 @@
-<h2 align="center">buff自动发货 使用教程</h2>
+<h1 align="center">buff自动发货 使用教程</h2>
 
 1. 下载文件, 并解压 [详细介绍](./download.md)
 2. 从浏览器登陆buff, 然后提取登陆信息(cookie), 将cookie写入到配置文件中 [详细介绍](./buff.md)
