@@ -1,8 +1,8 @@
 <h1 align="center">buff自动发货 使用教程</h2>
 
-1. 下载文件, 并解压 [详细介绍](./download.md)
-2. 从浏览器登陆buff, 然后提取登陆信息(cookie), 将cookie写入到配置文件中 [详细介绍](./buff.md)
-3. 从手机上提取steam令牌文件, 并将一些关键参数写入到配置文件 [详细介绍](./steam.md)
-4. 租一个云服务器(要香港节点的, 能正常访问steam的) [详细介绍](./server.md)
-5. 连接云服务器, 将文件全复制到服务器中, 然后启动程序 [详细介绍](./last.md)
-6. 部署完成
+1. :arrow_down: 下载文件, 并解压 [详细介绍](./download.md)
+2. :earth_americas: 从浏览器登陆buff, 然后提取登陆信息(cookie), 将cookie写入到配置文件中 [详细介绍](./buff.md)
+3. :iphone: 从手机上提取steam令牌文件, 并将一些关键参数写入到配置文件 [详细介绍](./steam.md)
+4. :computer: 租一个云服务器(要香港节点的, 能正常访问steam的) [详细介绍](./server.md)
+5. :on: 连接云服务器, 将文件全复制到服务器中, 然后启动程序 [详细介绍](./last.md)
+6. :+1: 部署完成
