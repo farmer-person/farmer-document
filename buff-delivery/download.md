@@ -1,4 +1,5 @@
-**有两种下载方式**:
+### 下载及文件介绍
+有两种下载方式:
 1. github :octocat: [下载](https://github.com/farmer-person/buff-delivery/archive/20.02.27.zip)
 2. 百度网盘 :cloud: [下载](https://pan.baidu.com/s/1BkcDF4YL5ewd3jdOuxURRg), 提取码: symp
 
