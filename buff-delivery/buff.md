@@ -13,7 +13,7 @@
 - 写入到配置文件setting.txt, 对应参数"cookie"
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/6.png)
 
-至此, 获取buff登陆信息已完成
+至此, 获取buff登陆信息已完成 :ok_hand:
 
 
 - [下一章: 提取steam令牌文件](./steam.md)
