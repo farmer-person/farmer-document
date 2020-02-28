@@ -1,6 +1,6 @@
 ### 租一个香港节点的云服务器
 
-先说明一下为什么要租一个云服务器.
+> 先说明一下为什么要租一个云服务器.
 1. 为了能访问steam, uu加速器是不管用的, uu只对steam这个软件有效, 从浏览器访问steam依然是不行, 不信可以自己试试, 所以要租一个香港节点, 香港的网络在全球都是畅通无阻的, uu大部分的服务器都是用的香港节点.
 2. 能24小时运行, 就算你家没电没网, 也没有任何影响.
 
@@ -44,7 +44,7 @@
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/36.png)
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/37.png)
 >
-- 找到香港节点的内容, 点"云服务器"下方的数字
+- 找到香港节点的内容, 点击"云服务器"下方的数字
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/38.png)
 >
 - 这个页面就是最终要看的, 公网ip就是服务器的ip, 到时连接服务器会用到, 复制这个公网ip.
