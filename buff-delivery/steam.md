@@ -27,7 +27,7 @@
 - 点击"**本电脑**", 取消打勾"**加密本地备份**"(加密的话是没法提取文件的), 点击"**立即备份**"
 - 应该会出现一个加密提示, 点击"**不加密**"
 - 等进度条完了, 就是备份完成, 大概花费两三分钟
-- 下载[令牌提取的软件](https://github.com/CaitSith2/ios-steamguard-extractor/releases/download/v1.04/ios-steamguard-extractor-v1.04.zip), 点击下方的按钮, 这时就会看到令牌文件
+- 下载[令牌提取的软件](https://github.com/CaitSith2/ios-steamguard-extractor/releases/download/v1.04/ios-steamguard-extractor-v1.04.zip), 解压后打开, 点击界面下方的按钮, 这时就会看到令牌文件
 - 将三个关键参数"**shared_secret**", "**identity_secret**", "**serial_number**", 写入到配置文件**setting.txt**
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/13.png)
