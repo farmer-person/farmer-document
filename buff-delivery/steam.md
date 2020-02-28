@@ -24,11 +24,10 @@
 - 等进度条完了, 就是备份完成, 大概花费两三分钟
 - 下载[令牌提取的软件](https://github.com/CaitSith2/ios-steamguard-extractor/releases/download/v1.04/ios-steamguard-extractor-v1.04.zip), 点击下方的按钮, 这时就会看到令牌文件
 - 将三个关键参数"shared_secret", "identity_secret", "serial_number", 写入到配置文件setting.txt
-![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/12.png)
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/13.png)
-![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/14.png)
-![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/15.png)
-![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/16.png)
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/14.PNG)
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/15.PNG)
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/16.PNG)
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/17.png)
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/18.png)
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/19.png)
