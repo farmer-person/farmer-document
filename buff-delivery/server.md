@@ -15,7 +15,8 @@
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/25.png)
 - 选择"按量付费", "香港"
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/27.png)
-> 选择"1vCPU", "2GiB", "经典网络", 这时筛选出唯一一个结果, 点击"共享计算型n1"
+> 
+- 选择"1vCPU", "2GiB", "经典网络", 这时筛选出唯一一个结果, 点击"共享计算型n1"
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/28.png)
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/29.png)
 - 选择"Windows Server", "2019 数据中心版 64位中文版", 点击"下一步"
