@@ -28,7 +28,7 @@
 
 接下来的操作都是在服务器上的操作, 不是在本地电脑的操作, 不要搞错.
 
-- 按`Win + E`打开"我的计算机", 点击"网络", 然后你看到本地电脑的东西
+- 按`Win + E`打开"我的计算机", 点击"网络", 然后你会看到本地电脑的东西
 - 然后把文件复制过去, 这些复制粘贴的操作, 这里就不讲了
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/51.png)
@@ -45,11 +45,13 @@
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/48.png)
 
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/49.png)
+
 - 点出"steam.bat", 启动steam的程序, 检测报价
 - 后续如果需要充值的, 点"充值.bat", 在服务器操作, 不要在本地电脑操作, 不要搞错
 - 另外"充值.bat"还可以查询软件的到期时间
 
-![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/49.png)
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/50.png)
 
 > END
 
