@@ -43,5 +43,5 @@
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/22.png)
 
 
-[下一章: 租一个云服务器](./server.md)
-[回到教程主页](./index.md)
+- [下一章: 租一个云服务器](./server.md)
+- [回到教程主页](./index.md)
