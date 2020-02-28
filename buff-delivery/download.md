@@ -16,7 +16,7 @@
 - **充值.bat**: 充值入口(软件可以免费试用两天, 后续要充值才能使用)
 - **setting.txt**: 配置文件, 配置好才可以运行程序(在服务器运行, 不是在本地电脑运行)
 
-打开setting.txt, 会看如下内容
+打开**setting.txt**, 会看如下内容
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/2.png)
 
