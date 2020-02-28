@@ -21,9 +21,9 @@
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/2.png)
 
 这里我介绍一下这几个参数的意思:
-- "shared_secret", "identity_secret", "serial_number", 这三个参数是steam令牌文件里的对应参数
-- "steam_user"是steam账号, "steam_password"是steam密码
-- "cookie"是buff的登陆信息
+- "**shared_secret**", "**identity_secret**", "**serial_number**", 这三个参数是steam令牌文件里的对应参数
+- "**steam_user**"是steam账号, "**steam_password**"是steam密码
+- "**cookie**"是buff的登陆信息
 
 配置完这6个参数之后就可以部署到服务器来运行了, 当然, 看到这里你现在肯定是没法写这些参数的, 因为这是后面章节介绍的内容, 这里只讲下载和文件内容. :smile:
 
