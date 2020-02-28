@@ -51,7 +51,7 @@
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/35.png)
 
-- 点击左上角的菜单符号, 点击"**云服务器ECS**"
+- 点击左上角的菜单符号, 点击"**云服务器ECS**", 有两个地方可以点, 一样的.
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/36.png)
 
