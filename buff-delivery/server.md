@@ -15,7 +15,7 @@
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/25.png)
 - 选择"按量付费", "香港"
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/27.png)
-- 选择"1vCPU", "2GiB", "经典网络", 这时筛选出唯一一个结果, 点击一下"共享计算型n1"
+> 选择"1vCPU", "2GiB", "经典网络", 这时筛选出唯一一个结果, 点击"共享计算型n1"
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/28.png)
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/29.png)
 - 选择"Windows Server", "2019 数据中心版 64位中文版", 点击"下一步"
@@ -28,4 +28,18 @@
 - 确认一下信息, 勾选"同意服务协议", 点击"创建实例"
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/34.png)
 - 租服务器完成, 接下来熟悉一下控制台的操作
-- 回到[官网首页](https://www.aliyun.com/?userCode=rn6hdbrz)
+- 回到[官网首页](https://www.aliyun.com/?userCode=rn6hdbrz), 点击右上角"控制台"
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/35.png)
+- 点击左上角的菜单符号, 点击"云服务器ECS"
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/36.png)
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/37.png)
+- 找到香港节点的内容, 点"云服务器"下方的数字
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/38.png)
+- 这个页面就是最终要看的, 公网ip就是服务器的ip, 到时连接服务器会用到, 复制这个公网ip.
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/39.png)
+
+至些, 租云服务器的步骤已经完成.
+
+> END
+- [下一章: 将软件部署到服务器](./last.md)
+- [回到教程主页](./index.md)
