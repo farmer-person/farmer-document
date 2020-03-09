@@ -21,16 +21,11 @@
 
 > #### 苹果用户
 - 电脑安装**iTunes**并打开, [官网链接](https://www.apple.com/itunes/), [下载链接](https://www.apple.com/itunes/download/win64)
-- 手机打开设置, 依次点击"**通用(General)**", "**iTunes同步**"
-- 用数据数**连接手机和电脑**, 连接会要求做一些身份认证步骤, 跟着提示做就行
-- 连上后, 点击iTunes左上角的**手机图标**, 进入到手机信息的介绍面板
-- 点击"**本电脑**", 取消打勾"**加密本地备份**"(加密的话是没法提取文件的), 点击"**立即备份**"
-- 应该会出现一个加密提示, 点击"**不加密**"
-- 等进度条完了, 就是备份完成, 大概花费两三分钟
-- 下载[令牌提取的软件](https://github.com/CaitSith2/ios-steamguard-extractor/releases/download/v1.04/ios-steamguard-extractor-v1.04.zip), 解压后打开, 点击界面下方的按钮, 这时就会看到令牌文件
-- 将三个关键参数"**shared_secret**", "**identity_secret**", "**serial_number**", 写入到配置文件**setting.txt**
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/13.png)
+
+- 手机打开设置, 依次点击"**通用(General)**", "**iTunes同步**"
+- 用数据数**连接手机和电脑**, 连接会要求做一些身份认证步骤, 跟着提示做就行
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/14.PNG)
 
@@ -38,15 +33,25 @@
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/16.PNG)
 
+- 连上后, 点击iTunes左上角的**手机图标**, 进入到手机信息的介绍面板
+- 点击"**本电脑**", 取消打勾"**加密本地备份**"(加密的话是没法提取文件的), 点击"**立即备份**"
+- 应该会出现一个加密提示, 点击"**不加密**"
+
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/17.png)
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/18.png)
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/19.png)
 
+- 等进度条完了, 就是备份完成, 大概花费两三分钟
+
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/20.png)
 
+- 下载[令牌提取的软件](https://github.com/CaitSith2/ios-steamguard-extractor/releases/download/v1.04/ios-steamguard-extractor-v1.04.zip), 解压后打开, 点击界面下方的按钮, 这时就会看到令牌文件
+
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/21.png)
+
+- 将三个关键参数"**shared_secret**", "**identity_secret**", "**serial_number**", 写入到配置文件**setting.txt**
 
 > #### 配置文件
 最后, 输入steam账号和密码, "**steam_user**"是账号, "**steam_password**"是密码
