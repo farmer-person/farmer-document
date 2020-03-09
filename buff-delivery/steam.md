@@ -40,6 +40,11 @@
 ----------分隔线----------<br>
 ----------分隔线----------<br>
 ----------分隔线----------<br>
+----------分隔线----------<br>
+----------分隔线----------<br>
+----------分隔线----------<br>
+----------分隔线----------<br>
+----------分隔线----------<br>
 > #### 苹果用户
 - 电脑安装**iTunes**并打开, [官网链接](https://www.apple.com/itunes/), [下载链接](https://www.apple.com/itunes/download/win64)
 
@@ -69,6 +74,7 @@
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/20.png)
 
 - 下载[令牌提取的软件](https://github.com/CaitSith2/ios-steamguard-extractor/releases/download/v1.04/ios-steamguard-extractor-v1.04.zip), 解压后打开, 点击界面下方的按钮, 这时就会看到令牌文件
+- 也可以选择[百度网盘](https://pan.baidu.com/s/1lInJkSZmMFp4kTDeSn9k7A)下载, 提取码: pcam
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/21.png)
 
