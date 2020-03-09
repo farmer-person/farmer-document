@@ -19,6 +19,30 @@
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/12.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > #### 苹果用户
 - 电脑安装**iTunes**并打开, [官网链接](https://www.apple.com/itunes/), [下载链接](https://www.apple.com/itunes/download/win64)
 
