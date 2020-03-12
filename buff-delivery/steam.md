@@ -54,7 +54,7 @@
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/13.png)
 
 - 手机打开设置, 依次点击"**通用(General)**", "**iTunes同步**"
-- 用数据数**连接手机和电脑**, 连接会要求做一些身份认证步骤, 跟着提示做就行
+- 用数据线**连接手机和电脑**, 连接会要求做一些身份认证步骤, 跟着提示做就行
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/14.PNG)
 
