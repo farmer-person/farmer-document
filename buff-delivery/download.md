@@ -2,6 +2,7 @@
 有两种下载方式:
 1. github :octocat: [下载](https://github.com/farmer-person/buff-delivery/archive/20.02.27.zip)
 2. 百度网盘 :cloud: [下载](https://pan.baidu.com/s/1BkcDF4YL5ewd3jdOuxURRg), 提取码: symp
+
 提示: 如果有能力翻墙, 那建议从github下载, 速度会很快, 不能的话, 建议从网盘下载.
 
 然后解压, 得到文件如下:
