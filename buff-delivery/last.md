@@ -23,7 +23,7 @@
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/44.png)
 
-- 然后点击"**连接**", 弹出一个警告, 继续, 然后输入服务器密码, 连接, 如果一切顺利, 那么这时你就会看到服务器的桌面, 可以对服务器进行操作
+- 然后点击"**连接**", 弹出一个警告, 继续, 然后输入服务器密码, 连接, 如果一切顺利, 那么这时你就会看到服务器的桌面, 然后就可以对服务器进行操作
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/52.png)
 
