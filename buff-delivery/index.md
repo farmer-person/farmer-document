@@ -1,5 +1,5 @@
 <h1 align="center">buff自动发货 使用教程</h2>
-<h4 align="center">更新于2020-03-11</h2>
+<h4 align="center">更新于2020-03-14</h2>
 
 > 注意:
 - 软件免费试用两天, 后续要收费, 100元/月, [淘宝直达](https://item.taobao.com/item.htm?id=614048199348)
