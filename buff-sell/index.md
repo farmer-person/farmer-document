@@ -18,4 +18,7 @@
 2. :earth_americas: 从浏览器登陆buff, 然后提取登陆信息(cookie), 将cookie写入到配置文件中 [详细介绍](./buff.md)
 3. :on: 启动程序 [详细介绍](./last.md)
 
+> 额外注意:
+- 不支持后台
+
 > 反馈邮箱: iceyee.studio@qq.com

@@ -1,5 +1,13 @@
 ### 启动程序
 
+- 点击"**jre-Windows-x64.exe**", 安装java运行环境
+
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/45.png)
+
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/46.png)
+
+![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/47.png)
+
 - 点击"**buff.bat**", 启动程序, (这里做演示的账号没有出售任何饰品, 所以显示信息较少, 实际上如果你有正在出售的饰品, 这里会显示一大串的信息)
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-sell/2.png)
