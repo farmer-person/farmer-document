@@ -11,7 +11,7 @@
 - 点击"**消息头**"(或者"header")
 - 看到"**请求头**"(或者"request header"), 注意, 是"请求头", 不是"响应头", 不要搞错
 - 复制"**cookie**"后面的数据
-- 写入到配置文件**setting.txt**, 对应参数"**cookie**"
+- 粘贴到配置文件**cookie.txt**中
 
 ![](https://github.com/farmer-person/pictures/blob/master/buff-delivery/6.png)
 
@@ -19,5 +19,5 @@
 
 > END
 
-- [下一章: 提取steam令牌文件](./steam.md)
+- [下一章: 启动程序](./last.md)
 - [返回教程主页](./index.md)
